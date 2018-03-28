@@ -2,7 +2,7 @@
 title: RayJar Studio
 email: rayjargroup@gmail.com
 url: https://rayjar.github.io
-description: "汇聚靠谱之人，专注靠谱之事！"
+description: "汇聚靠谱之人，专注靠谱之事"
 keywords: "Web, Developer"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Ray Jar
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: RayJar Studio
-  location: Location
-  social: Around the Web
-  credits: Contact
+  location: 地点
+  social: 相关链接
+  credits: 联系我们
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Guangzhou China
-  - line: Shenzhen China
+  - line: Guangzhou, China
+  - line: Shenzhen, China
 
 # Credits content
 credits: 'RayJarGroup@Gmail.com'
