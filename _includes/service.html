@@ -11,10 +11,10 @@
             <div class="row">
                 {% for service in site.services %}
                     <div class="col-sm-4 portfolio-item">
-                        <div>
-                            <div><img class="img-service" src="img/profile.png" alt=""></div>
+                        <div class="box-service">
+                            <p><img class="img-service" src="img/profile.png" alt=""></p>
                             <h3>{{ service.title }}</h3>
-                            {{ service.description }}
+                            <p>{{ service.description }}</p>
                         </div>
                     </div>
                 {% endfor %}
