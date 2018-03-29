@@ -8,6 +8,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 title: 美工设计
-description: LOGO设计/UI设计/VI设计/图文绘画
+description: LOGO设计/UI设计/VI设计/平面设计/图文绘画
 
 ---
