@@ -457,8 +457,9 @@ footer .footer-below {
 }
 
 .box-service {
-    padding: 2em;
+    margin: 20px 40px;
     text-align: center;
+    min-height: 220px;
 }
 .img-service {
     width: 100px;
