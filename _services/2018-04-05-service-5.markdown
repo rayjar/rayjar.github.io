@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 5
+date: 2018-04-05
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+title: 微信开发
+description: 小程序/小游戏/公众号/企业号/微信支付
+
+---
+
+- 小程序
+- 小游戏
+- 公众号
+- 企业号
+- 微信支付

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 4
+date: 2018-04-04
+img: game.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+title: 前端开发
+description: web开发/H5移动应用/网页游戏
+
+---
+
+- web开发
+- H5移动应用
+- 网页游戏

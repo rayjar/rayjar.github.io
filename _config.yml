@@ -62,3 +62,7 @@ credits: 'RayJarGroup@Gmail.com'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Collections
+collections:
+- services

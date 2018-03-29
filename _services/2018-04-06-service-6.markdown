@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2018-04-06
+img: submarine.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+title: APP开发
+description: IOS/Android/快应用
+
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+date: 2018-04-09
+img: cake.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+title: 摄影摄像
+description: 产品拍摄/私人定制/活动跟拍/后期出图/视频编辑
+
+---
