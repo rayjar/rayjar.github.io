@@ -465,3 +465,8 @@ footer .footer-below {
     width: 100px;
     height: 100px;
 }
+.row-service {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
