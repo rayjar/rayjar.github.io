@@ -456,17 +456,17 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.box-service {
-    margin: 20px 40px;
-    text-align: center;
-    min-height: 220px;
-}
-.img-service {
-    width: 100px;
-    height: 100px;
-}
 .row-service {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 }
+.box-service {
+    margin: 20px 40px;
+    text-align: center;
+}
+.img-service {
+    width: 100px;
+    height: 100px;
+}
+
